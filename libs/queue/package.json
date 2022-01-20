@@ -1,5 +1,5 @@
 {
-  "name": "libs/queue",
+  "name": "queue",
   "version": "1.0.0",
   "description": "Queue data structures",
   "main": "index.js",

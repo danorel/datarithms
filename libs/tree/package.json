@@ -1,5 +1,5 @@
 {
-  "name": "libs/tree",
+  "name": "tree",
   "version": "1.0.0",
   "description": "Tree data structures",
   "main": "index.js",
@@ -10,5 +10,12 @@
     "tree"
   ],
   "author": "Danyil Orel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0",
+    "eslint-config-google": "^0.14.0",
+    "typescript": "^4.5.5"
+  }
 }
