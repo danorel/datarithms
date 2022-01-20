@@ -1,0 +1,14 @@
+{
+  "name": "libs/tree",
+  "version": "1.0.0",
+  "description": "Tree data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tree"
+  ],
+  "author": "Danyil Orel",
+  "license": "ISC"
+}

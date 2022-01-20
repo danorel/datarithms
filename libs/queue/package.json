@@ -1,0 +1,14 @@
+{
+  "name": "libs/queue",
+  "version": "1.0.0",
+  "description": "Queue data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "Danyil Orel",
+  "license": "ISC"
+}

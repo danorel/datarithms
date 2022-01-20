@@ -1,0 +1,11 @@
+{
+  "name": "datarithms",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms",
+  "main": "index.js",
+  "repository": "git@github.com:danorel/datarithms.git",
+  "author": "danorel <mail.ordan@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["libs/tree", "libs/queue"]
+}
