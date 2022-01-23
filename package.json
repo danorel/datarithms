@@ -9,7 +9,8 @@
   "private": true,
   "workspaces": [
     "libs/tree",
-    "libs/queue"
+    "libs/queue",
+    "libs/list"
   ],
   "devDependencies": {
     "@babel/core": "^7.16.10",

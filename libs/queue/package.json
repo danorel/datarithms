@@ -7,12 +7,15 @@
   "keywords": [
     "queue"
   ],
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest",
     "build": "tsc",
     "start": "node --inspect",
     "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "tree": "1.0.0"
   },
   "devDependencies": {
     "@types/jest": "^27.4.0",
